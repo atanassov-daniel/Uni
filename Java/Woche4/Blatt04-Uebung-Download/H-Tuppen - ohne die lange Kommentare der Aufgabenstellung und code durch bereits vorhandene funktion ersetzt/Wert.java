@@ -1,0 +1,3 @@
+enum Wert {
+    BUBE, DAME, KOENIG, ASS, SIEBEN, ACHT, NEUN, ZEHN;
+}
