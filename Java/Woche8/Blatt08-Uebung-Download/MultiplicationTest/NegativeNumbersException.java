@@ -1,0 +1,7 @@
+/**
+ * NegativeNumbersException
+ */
+public class NegativeNumbersException {
+
+    
+}
